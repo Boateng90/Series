@@ -5,3 +5,6 @@ https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3mIalt.jpg" group-title="Malcolm in the middle" ,Malcolm el de enmedio
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris2.m3u
+
+#EXTINF:-1 group-title="Azteca 7" ,Azteca 7
+https://mdstrm.com/video/6356bf2d97b738085e47daff.m3u8
