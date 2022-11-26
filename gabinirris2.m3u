@@ -1,7 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 ,Malcolm in the middle - Temporada 01
-https://mega.nz/fm/j04hQCpY
+#EXTINF:-1 group-title="Malcolm in the middle" ,Malcolm el de enmedio TEMPORADA 01
+https://raw.githubusercontent.com/Boateng90/c/main/mlc01.m3u
 
-#EXTINF:-1 ,Malcolm in the middle - Temporada 02
-https://mega.nz/file/7tZWEayI#s3c6muU6gX-7RZoTcpymgrVHRO_TBAGFw3g-kED8USk
+#EXTINF:-1 group-title="Malcolm in the middle" ,Malcolm el de enmedio TEMPORADA 02
+https://raw.githubusercontent.com/Boateng90/c/main/mlc02.m3u
+
+#EXTINF:-1 group-title="Malcolm in the middle" ,Malcolm el de enmedio TEMPORADA 03
+https://raw.githubusercontent.com/Boateng90/c/main/mlc03.m3u
+
+#EXTINF:-1 group-title="Malcolm in the middle" ,Malcolm el de enmedio TEMPORADA 04
+https://raw.githubusercontent.com/Boateng90/c/main/mlc04.m3u
+
+#EXTINF:-1 group-title="Malcolm in the middle" ,Malcolm el de enmedio TEMPORADA 05
+https://raw.githubusercontent.com/Boateng90/c/main/mlc05.m3u
+
+#EXTINF:-1 group-title="Malcolm in the middle" ,Malcolm el de enmedio TEMPORADA 06
+https://raw.githubusercontent.com/Boateng90/c/main/mlc06.m3u
+
+#EXTINF:-1 group-title="Malcolm in the middle" ,Malcolm el de enmedio TEMPORADA 07
+https://raw.githubusercontent.com/Boateng90/c/main/mlc07.m3u
