@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="La Ley Y El Orden UVE" ,La Ley Y El Orden UVE
+#EXTINF:-1 group-title="La Ley Y El Orden UVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Law_%26_Order.png" ,La Ley Y El Orden UVE
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris.m3u
 
-#EXTINF:-1 group-title="Malcolm in the middle" ,Malcolm el de enmedio
+#EXTINF:-1 group-title="Malcolm in the middle" tvg-logo="https://pics.filmaffinity.com/Malcolm_el_de_enmedio_Serie_de_TV-223898645-large.jpg" ,Malcolm el de enmedio
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris2.m3u
