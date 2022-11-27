@@ -9,6 +9,9 @@ https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris2.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3mIalt.jpg" group-title="Cat-Dog" ,Cat-Dog
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris3.m3u
 
+#EXTINF:-1 group-title="Peliculas" ,Pingu
+http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
+
 #EXTINF:-1 group-title="Peliculas" ,El exorcismo de dios
 http://54.39.52.63/PELICULA/3.14/17166.The.Exorcism.of.God.2021.1080p.WEBRip.mkv
 
@@ -31,7 +34,10 @@ http://192.99.233.158/disco2/disco2/Peliculas/Accion/Imparable.mp4
 http://192.99.233.158/disco2/disco2/nuevo/ACCION/Hombre%20El%20Llamas.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,El justiciero
-http://167.114.174.132:9092/movies/Batch219/The%20Equalizer%20%282014%29/The%20Equalizer%20%282014%29.mp4
+http://51.81.208.167/movies/El_justiciero_(2018).avi
+
+#EXTINF:-1 group-title="Peliculas" ,Deja Vu
+http://51.81.208.167/movies/Deja.Vu_(2006).avi
 
 #EXTINF:-1 group-title="Peliculas" ,El hombre bicentenario
 http://192.99.233.158/disco2/disco2/nuevo/CLASICOS/El%20Hombre%20Bicentenario.mp4
@@ -48,6 +54,9 @@ http://fina.dyndns.tv/Peliculas/Focus.mp4
 #EXTINF:-1 group-title="Peliculas" ,Fiebre de sabado por la  noche
 http://192.99.233.158/disco2/disco2/nuevo/CLASICOS/Fiebre%20del%20sabado%20noche%20-_-%20.mp4
 
+#EXTINF:-1 group-title="Peliculas" ,Vaselina
+http://51.81.208.167/cine/Vaselina.mp4
+
 #EXTINF:-1 group-title="Peliculas" ,Grease
 http://192.99.233.158/disco2/disco2/nuevo/CLASICOS/Grease%20-_-%20.mp4
 
@@ -56,6 +65,9 @@ http://192.99.233.158/disco2/disco2/Peliculas/Ultimos_Agregados/14octubre2018/An
 
 #EXTINF:-1 group-title="Peliculas" ,Inferno
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Inferno.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Joker
+http://134.195.89.56/Joker.2019.BluRay.1080p.TrueHD.Atmos.7.1.x265.10bit-BeiTai/Joker.2019.BluRay.1080p.TrueHD.Atmos.7.1.x265.10bit-BeiTai.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,Mi pobre angelito
 http://heinentv.ddns.me/Contenido/Peliculas/Comedia/Mi%20Pobre%20Angelito.mkv
@@ -87,8 +99,8 @@ http://192.99.233.158/disco2/disco2/Peliculas/Ultimos_Agregados/11diciembre2018/
 #EXTINF:-1 group-title="Peliculas" ,El cadaver de la novia
 http://192.99.233.158/disco2/disco2/Peliculas_Clasicas/Animadas_Clasicas/El%20Cadaver%20de%20la%20Novia.avi
 
-#EXTINF:-1 group-title="Peliculas" ,Pingu
-http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
+#EXTINF:-1 group-title="Peliculas" ,El libro de la vida
+http://51.81.208.167/movies/el_libro_de_la_vida_(2014).avi
 
 #EXTINF:-1 group-title="Peliculas" ,Los Croods 
 http://fina.dyndns.tv/Peliculas/Los%20Croods.mkv
@@ -101,3 +113,6 @@ http://fina.dyndns.tv/Peliculas/Nosotros%20Los%20Nobles.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,Una ultima y nos vamos
 http://heinentv.ddns.me/Contenido/Peliculas/Aventura/Una%20Ultima%20y%20Nos%20Vamos.avi
+
+#EXTINF:-1 group-title="Peliculas" ,Ana Gabriel
+http://51.81.208.167/gmedia/concierto/ana.gabriel.altos.chavol.mkv
