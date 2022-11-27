@@ -22,7 +22,7 @@ http://192.99.233.158/disco2/disco2/nuevo/CIENCIA%20FICCION/Interestelar.mkv
 http://192.99.233.158/disco2/disco2/Peliculas/Ficcion/La-Llegada.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,El transportador
-http://192.99.233.158/disco2/disco2/Peliculas_Clasicas/Accion_Clasica/El%20Transportador%201%20(2002)%20%5bAcci%c3%b3n%5d.avi
+http://fina.dyndns.tv/Peliculas/Statham/Transporter%201.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,Imparable
 http://192.99.233.158/disco2/disco2/Peliculas/Accion/Imparable.mp4
@@ -30,11 +30,20 @@ http://192.99.233.158/disco2/disco2/Peliculas/Accion/Imparable.mp4
 #EXTINF:-1 group-title="Peliculas" ,Hombre en llamas
 http://192.99.233.158/disco2/disco2/nuevo/ACCION/Hombre%20El%20Llamas.mp4
 
+#EXTINF:-1 group-title="Peliculas" ,El justiciero
+http://fina.dyndns.tv/Peliculas/The%20equalizer.mkv
+
 #EXTINF:-1 group-title="Peliculas" ,El hombre bicentenario
 http://192.99.233.158/disco2/disco2/nuevo/CLASICOS/El%20Hombre%20Bicentenario.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Gladiador
 http://51.158.153.210/Gladiator.EXTENDED.2000.1080.BrRip.264.YIFY.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Dracula
+http://fina.dyndns.tv/Peliculas/Dracula%20Untold.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Focus
+http://fina.dyndns.tv/Peliculas/Focus.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Fiebre de sabado por la  noche
 http://192.99.233.158/disco2/disco2/nuevo/CLASICOS/Fiebre%20del%20sabado%20noche%20-_-%20.mp4
@@ -74,3 +83,12 @@ http://192.99.233.158/disco2/disco2/Peliculas_Clasicas/Animadas_Clasicas/El%20Ca
 
 #EXTINF:-1 group-title="Peliculas" ,Pingu
 http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Los Croods 
+http://fina.dyndns.tv/Peliculas/Los%20Croods.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Los Croods 2
+http://fina.dyndns.tv/Peliculas/Los%20Crood%202.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Nosotros los nobles
+http://fina.dyndns.tv/Peliculas/Nosotros%20Los%20Nobles.mkv
