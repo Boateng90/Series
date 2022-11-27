@@ -55,7 +55,10 @@ http://192.99.233.158/disco2/disco2/nuevo/CLASICOS/Grease%20-_-%20.mp4
 http://192.99.233.158/disco2/disco2/Peliculas/Ultimos_Agregados/14octubre2018/Angeles.y.demonios.dvdrip.latino.c.avi
 
 #EXTINF:-1 group-title="Peliculas" ,Mi pobre angelito
-http://192.99.233.158/disco2/disco2/Peliculas_Clasicas/Comedia_Clasica/Mi%20Pobre%20Angelito%201%20(1990)%20%5bComedia%5d.avi
+http://heinentv.ddns.me/Contenido/Peliculas/Comedia/Mi%20Pobre%20Angelito.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Una pareja de idiotas
+http://heinentv.ddns.me/Contenido/Peliculas/Comedia/Dos%20tontos%20muy%20tontos.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,El gigante de hierro
 http://192.99.233.158/disco2/disco2/Peliculas/Ficcion/El-Gigante-de-Hierro.mp4
@@ -92,3 +95,6 @@ http://fina.dyndns.tv/Peliculas/Los%20Crood%202.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Nosotros los nobles
 http://fina.dyndns.tv/Peliculas/Nosotros%20Los%20Nobles.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Una ultima y nos vamos
+http://heinentv.ddns.me/Contenido/Peliculas/Aventura/Una%20Ultima%20y%20Nos%20Vamos.avi
