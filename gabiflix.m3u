@@ -25,7 +25,10 @@ http://192.99.233.158/disco2/disco2/nuevo/CIENCIA%20FICCION/Interestelar.mkv
 http://192.99.233.158/disco2/disco2/Peliculas/Ficcion/La-Llegada.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,El transportador
-http://fina.dyndns.tv/Peliculas/Statham/Transporter%201.mkv
+http://51.81.208.167/movies/El_Transportador_(2002).mp4
+
+#EXTINF:-1 group-title="Peliculas" ,El transportador 2
+http://51.81.208.167/movies/El_Transportador_2_(2005).mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Imparable
 http://192.99.233.158/disco2/disco2/Peliculas/Accion/Imparable.mp4
@@ -34,7 +37,7 @@ http://192.99.233.158/disco2/disco2/Peliculas/Accion/Imparable.mp4
 http://192.99.233.158/disco2/disco2/nuevo/ACCION/Hombre%20El%20Llamas.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,El justiciero
-http://51.81.208.167/movies/El_justiciero_(2018).avi
+https://dl3.3rver.org/cdn2/02/film/2014/The.Equalizer/The.Equalizer.2014.720p.BluRay.ShAaNiG.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,Deja Vu
 http://51.81.208.167/movies/Deja.Vu_(2006).avi
@@ -113,6 +116,9 @@ http://fina.dyndns.tv/Peliculas/Nosotros%20Los%20Nobles.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,Una ultima y nos vamos
 http://heinentv.ddns.me/Contenido/Peliculas/Aventura/Una%20Ultima%20y%20Nos%20Vamos.avi
+
+#EXTINF:-1 group-title="Peliculas" ,Matando cabos 2
+http://51.81.208.167/peli2021/La.venganza.de.Mascarita.2021.lati.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Ana Gabriel
 http://51.81.208.167/gmedia/concierto/ana.gabriel.altos.chavol.mkv
