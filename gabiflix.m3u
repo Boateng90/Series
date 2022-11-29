@@ -75,8 +75,11 @@ http://192.99.233.158/disco2/disco2/nuevo/CLASICOS/Fiebre%20del%20sabado%20noche
 #EXTINF:-1 group-title="Peliculas" ,Vaselina
 http://51.81.208.167/cine/Vaselina.mp4
 
-#EXTINF:-1 group-title="Peliculas" ,Grease
-http://192.99.233.158/disco2/disco2/nuevo/CLASICOS/Grease%20-_-%20.mp4
+#EXTINF:-1 group-title="Peliculas" ,La Bamba
+http://heinentv.ddns.me/Contenido/Peliculas/Drama/HISTORIA%20AMERICANA%20X.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Historia Americana X
+http://heinentv.ddns.me/Contenido/Peliculas/Drama/HISTORIA%20AMERICANA%20X.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,Angeles y demonios
 http://192.99.233.158/disco2/disco2/Peliculas/Ultimos_Agregados/14octubre2018/Angeles.y.demonios.dvdrip.latino.c.avi
@@ -137,6 +140,9 @@ http://heinentv.ddns.me/Contenido/Peliculas/Aventura/Una%20Ultima%20y%20Nos%20Va
 
 #EXTINF:-1 group-title="Peliculas" ,Matando cabos 2
 http://51.81.208.167/peli2021/La.venganza.de.Mascarita.2021.lati.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Marcelino Pan y Vino
+http://heinentv.ddns.me/Contenido/Peliculas/Drama/Marcelino%20Pan%20y%20Vino.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Ana Gabriel
 http://51.81.208.167/gmedia/concierto/ana.gabriel.altos.chavol.mkv
