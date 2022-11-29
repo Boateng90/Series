@@ -39,6 +39,9 @@ http://192.99.233.158/disco2/disco2/Peliculas/Accion/Imparable.mp4
 #EXTINF:-1 group-title="Peliculas" ,Hombre en llamas
 http://192.99.233.158/disco2/disco2/nuevo/ACCION/Hombre%20El%20Llamas.mp4
 
+#EXTINF:-1 group-title="Peliculas" ,El justiciero
+http://heinentv.ddns.me/Contenido/Peliculas/Accion/The%20Equalizer%20(El%20protector).mp4
+
 #EXTINF:-1 group-title="Peliculas" ,Deja Vu
 http://51.81.208.167/movies/Deja.Vu_(2006).avi
 
@@ -56,6 +59,9 @@ http://heinentv.ddns.me/Contenido/Peliculas/Accion/El%20Hombre%20Arana%202.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,El hombre araña 3
 http://heinentv.ddns.me/Contenido/Peliculas/Accion/El%20Hombre%20Arana%203.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Rapido y Furioso
+http://heinentv.ddns.me/Contenido/Peliculas/Accion/The%20Fast%20and%20the%20Furious%20(2001)%20%5bHD%5d%20%5b1080p%5d%20%5bx264%5d%5b3.4%20Mbps%5d%5beng%5d.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Geotormenta
 http://heinentv.ddns.me/Contenido/Peliculas/Accion/Geo%20tormenta.mkv
@@ -81,11 +87,20 @@ http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Inferno.mp4
 #EXTINF:-1 group-title="Peliculas" ,Joker
 http://134.195.89.56/Joker.2019.BluRay.1080p.TrueHD.Atmos.7.1.x265.10bit-BeiTai/Joker.2019.BluRay.1080p.TrueHD.Atmos.7.1.x265.10bit-BeiTai.mkv
 
+#EXTINF:-1 group-title="Peliculas" ,Forest Gump
+http://heinentv.ddns.me/Contenido/Peliculas/Comedia/Forrest%20Gump.mkv
+
 #EXTINF:-1 group-title="Peliculas" ,Mi pobre angelito
 http://91.108.138.1/film/comedi/Home.Alone.1990/Home.Alone.1990.720p.Farsi.Dubbed.mkv
 
+#EXTINF:-1 group-title="Peliculas" ,Mi pobre angelito 2
+http://heinentv.ddns.me/Contenido/Peliculas/Comedia/Solo%20en%20casa%202_%20Perdido%20en%20Nueva%20York.mkv
+
 #EXTINF:-1 group-title="Peliculas" ,Una pareja de idiotas
 http://heinentv.ddns.me/Contenido/Peliculas/Comedia/Dos%20tontos%20muy%20tontos.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Este cuerpo no es mio
+http://heinentv.ddns.me/Contenido/Peliculas/Comedia/ESTE%20CUERPO%20NO%20ES%20MIO.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,El gigante de hierro
 http://192.99.233.158/disco2/disco2/Peliculas/Ficcion/El-Gigante-de-Hierro.mp4
