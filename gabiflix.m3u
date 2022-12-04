@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/c135953a359ba3d94864aab9feb8c8f0.jpg" group-title="La Ley Y El Orden UVE" ,La Ley Y El Orden UVE
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/c135953a359ba3d94864aab9feb8c8f0.jpg" group-title="Series" ,La Ley Y El Orden UVE
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3mIalt.jpg" group-title="Malcolm in the middle" ,Malcolm el de enmedio
+#EXTINF:-1 tvg-logo="https://www.malcolm-france.com/wp-content/uploads/generique_logo_malcolm-in-the-middle.jpg" group-title="Series" ,Malcolm el de enmedio
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris2.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3mIalt.jpg" group-title="Cat-Dog" ,Cat-Dog
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bnbdo6Gc_ik/maxresdefault.jpg" group-title="Caricaturas" ,Cat-Dog
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris3.m3u
 
-#EXTINF:-1 group-title="Peliculas" ,Pingu
+#EXTINF:-1 tvg-logo="https://static2.lavozdigital.es/media/ocio/tv/2016/09/27/v/serie-animada-pingu-kU3H--620x349@abc.jpg" group-title="Caricaturas" ,Pingu
 http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,El exorcismo de dios
@@ -80,6 +80,9 @@ https://archive.org/download/rapido-y-furioso-2-720-p-dual-id-584/R%C3%A1pido%20
 
 #EXTINF:-1 group-title="Peliculas" ,Geotormenta
 http://192.99.233.158/disco2/disco2/nuevo/AVENTURAS/Geo%20Tormenta.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Hotel Mumbai
+http://51.81.208.167/2020/Hotel.mumbai.2018.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Gladiador
 http://heinentv.ddns.me/Contenido/Peliculas/Accion/Gladiator.mp4
