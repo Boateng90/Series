@@ -12,9 +12,6 @@ https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris3.m3u
 #EXTINF:-1 tvg-logo="https://static2.lavozdigital.es/media/ocio/tv/2016/09/27/v/serie-animada-pingu-kU3H--620x349@abc.jpg" group-title="Caricaturas" ,Pingu
 http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
 
-#EXTINF:-1 group-title="Peliculas" ,Jack en la caja
-https://00f74ba44ba2814f25abfebbe01ef90789df331dab-apidata.googleusercontent.com/download/storage/v1/b/bisco-01/o/6308b50ccebd8b4e88fb1c18.mp4?jk=AFshE3VkTMpb4csYSNwBYcVgs-bEwU8elPSvjlx8FdOEG4MCVnHFi7X8hSX6dRH_0ejhN-yvkx6qPUsAs0KPw-MTJRJfGxvwgAdJTBq27cvZmkQEHhKoESL6FTYFmoeIza5WN0RugF2rgQXrkLxfIKbplPgsu5fHuzFaqsYHUliH_GTwKDwoIewsLBjh0bV-5Agz4rEfyqqVz1JnxAJMD1b4ILyhIMbxosg_OUE9dv_yuiPn1o-No4_nDKI6i_4-p0T-MiIj4wWurYS3N6A6A3RkFmQVfIaNpmpeYkTJI9OWo0KCK4GgjY04tltlQYM2mm682CLy-ABLaqEI6jE7sKqTApCV8cshff_t6xINOL5vy00RE6km0ZJlk7ZSAnZMLKRK5JFg-M3MPGGyWS1Bbfl4hCgNsvvViTptjCM74THGMEBSz1d7XVaQDVjx1XIWO9F9ZAsmgXzPNyXJ90KPUepu-C4gsJupfnaFKr8R2Aekn904bUA_yBJSR4rZayYp61E-g6WC2SlYEmjqTx3N3NDLelFNgRG_iQvxpxXspXQGKb8gin8qn5ftuaUwOg8IsuajY8UuLxsXX7kRR-QSexKzY6DlNVtQxrCruxzlCudk6yYTWsTWXFIuCcjztBVUVaYHCjRbF7ckedalcfyR6AzZEBTwBr8XxXoTrSeC5Gl2ypat1zaubnUElH-gb4EcgJ5L-Rmi6ZsEfWBpikaAI-WnrGuR9e232GnvAex87qnDmhtOlpn8TP3atdrMbLKBCvnHezBem4osPRudXNrauMorUs_4GVaomfgmCMhsnrs3MSbBGSFZgCAFvrMb1yHcj5gAkt_Ebw7T7JnqYE2EPKaxVTLDQXeCGzZvUI9y0fWU_WGjYVGvFgZtYlqYNgYOtsj-4Yt6wF0WyEnMLkKYYdxXe1CA8Gfd4FTJS2mHtYpKJ8MeWykqbDtpb6pshWeiDwsSEshyd1rRL3GuS27rg8XsnDFrhlNAk-O67XT-VwWFsvMhRr3jtyMrtDdl-CUUFzasw2m1wY-uIr82EYNuA0G333zJlls4yr-e3Fi2RECqNQnQZZhhlRk5vW24B1x39Ebj6HlBIs4nwQufTIts2l63_0d4ub-ZCNAfm6hZ_Dmx8qmJHJWhTcg8ABLukftoGYiynO8Qwls9JaAy9bl9Yl7slzPeyLOQasuiNotmNZrl5_apCLIu42Wt5N7jizHxWBBmMm-7SLH381UZVg&isca=1
-
 #EXTINF:-1 group-title="Peliculas" ,El exorcismo de dios
 https://archive.org/embed/el-exorcismo-de-dios-2022/EL%20EXORCISMO%20DE%20DIOS%20%282022%29.mp4
 
@@ -185,6 +182,21 @@ http://192.99.233.158/disco2/disco2/Peliculas_Clasicas/Animadas_Clasicas/El%20Ca
 
 #EXTINF:-1 group-title="Peliculas" ,El libro de la vida
 http://170.24.185.250/movies/Book%20Of%20Life.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,La era de hielo
+http://51.81.208.167/2020/La_Era_de_Hielo_1__2002.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,La era de hielo 2
+http://51.81.208.167/2020/La_Era_de_Hielo_2_El_Deshielo__2006.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,La era de hielo 3
+http://51.81.208.167/2020/La_Era_de_Hielo_3_El_Origen_de_los_Dinosaurios__2009.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,La era de hielo 4
+http://51.81.208.167/2020/La_Era_de_Hielo_4_La_Formacion_de_los_Continentes__2012.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,La era de hielo 5
+http://51.81.208.167/2020/La_Era_de_Hielo_5_Choque_de_Mundos__2016.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,Nosotros los nobles
 http://fina.dyndns.tv/Peliculas/Nosotros%20Los%20Nobles.mkv
