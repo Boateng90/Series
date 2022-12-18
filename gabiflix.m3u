@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris3.m3u
 #EXTINF:-1 tvg-logo="https://ciudadtrendy.mx/wp-content/uploads/2021/01/Pingu-serie-de-television-1-1024x538.jpg" group-title="Caricaturas" ,Pingu
 http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
 
-#EXTINF:-1 group-title="Peliculas" ,Monstruo la historia de Jeffrey Dahmer
+#EXTINF:-1 tvg-logo="https://www.jerseyshorevibe.com/wp-content/uploads/2022/10/Dahmer-Release-Date.jpg" group-title="Series" ,Monstruo la historia de Jeffrey Dahmer
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris4.m3u
 
 #EXTINF:-1 group-title="Peliculas" ,El exorcismo de dios
