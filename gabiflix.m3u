@@ -3,14 +3,17 @@
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/c135953a359ba3d94864aab9feb8c8f0.jpg" group-title="Series" ,La Ley Y El Orden UVE
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris.m3u
 
-#EXTINF:-1 tvg-logo="https://www.malcolm-france.com/wp-content/uploads/generique_logo_malcolm-in-the-middle.jpg" group-title="Series" ,Malcolm el de enmedio
+#EXTINF:-1 tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/a/ae/MitM_credits_logo.jpg" group-title="Series" ,Malcolm el de enmedio
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris2.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bnbdo6Gc_ik/maxresdefault.jpg" group-title="Caricaturas" ,Cat-Dog
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris3.m3u
 
-#EXTINF:-1 tvg-logo="https://static2.lavozdigital.es/media/ocio/tv/2016/09/27/v/serie-animada-pingu-kU3H--620x349@abc.jpg" group-title="Caricaturas" ,Pingu
+#EXTINF:-1 tvg-logo="https://ciudadtrendy.mx/wp-content/uploads/2021/01/Pingu-serie-de-television-1-1024x538.jpg" group-title="Caricaturas" ,Pingu
 http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Monstruo la historia de Jeffrey Dahmer
+https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris4.m3u
 
 #EXTINF:-1 group-title="Peliculas" ,El exorcismo de dios
 https://archive.org/embed/el-exorcismo-de-dios-2022/EL%20EXORCISMO%20DE%20DIOS%20%282022%29.mp4
