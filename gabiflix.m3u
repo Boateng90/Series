@@ -15,6 +15,9 @@ http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
 #EXTINF:-1 tvg-logo="https://www.jerseyshorevibe.com/wp-content/uploads/2022/10/Dahmer-Release-Date.jpg" group-title="Series" ,Monstruo la historia de Jeffrey Dahmer
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris4.m3u
 
+#EXTINF:-1 group-title="Peliculas" ,El perfume
+https://raw.githubusercontent.com/Boateng90/Series/main/perfume.m3u
+
 #EXTINF:-1 group-title="Peliculas" ,El exorcismo de dios
 https://archive.org/embed/el-exorcismo-de-dios-2022/EL%20EXORCISMO%20DE%20DIOS%20%282022%29.mp4
 
@@ -50,9 +53,6 @@ http://51.81.208.167/movies/El_Transportador_(2002).mp4
 
 #EXTINF:-1 group-title="Peliculas" ,El transportador 2
 http://51.81.208.167/movies/El_Transportador_2_(2005).mp4
-
-#EXTINF:-1 group-title="Peliculas" ,El perfume, historia de un asesino
-https://raw.githubusercontent.com/Boateng90/Series/main/perfume.m3u
 
 #EXTINF:-1 group-title="Peliculas" ,Imparable
 http://192.99.233.158/disco2/disco2/Peliculas/Accion/Imparable.mp4
