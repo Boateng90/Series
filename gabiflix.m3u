@@ -165,6 +165,9 @@ http://192.99.233.158/disco2/disco2/Peliculas/Ficcion/El-Gigante-de-Hierro.mp4
 #EXTINF:-1 group-title="Peliculas" ,El camino hacia el dorado
 http://192.99.233.158/disco2/disco2/Peliculas/Ultimos_Agregados/27septiembre2018/El%20camino%20hacia%20El%20Dorado.mkv
 
+#EXTINF:-1 group-title="Peliculas" ,Jose el soñador
+http://54.39.52.63/ZEUS/Movies/junio/Junio14/Jose%20El%20Rey%20De%20Los%20Sue%c3%b1os.mkv
+
 #EXTINF:-1 group-title="Peliculas" ,Coco
 http://192.99.233.158/disco2/disco2/Peliculas/Animadas/Coco.mkv
 
@@ -195,8 +198,8 @@ http://192.99.233.158/disco2/disco2/Peliculas/Animadas/%5b2001%5d%20El%20Viaje%2
 #EXTINF:-1 group-title="Peliculas" ,Buscando a Nemo
 http://heinentv.ddns.me/Contenido/Peliculas/Infantil/%20Buscando%20A%20Nemo%20(2003)%201080p.mkv
 
-#EXTINF:-1 group-title="Peliculas" ,El extraño mundo de Jack
-https://sto019.akamai-cdn-content.com/tysxfndn7o66j6cdacobxqcdfyimhigh5d4tsfzuludn25xwq5erzxoamanq/el-extrano-mundo-de-jack_1.mp4
+#EXTINF:-1 group-title="Peliculas" ,Monster House
+http://54.39.52.63/ZEUS/Movies/Noviembre/Monster%20House%20(2006)%201080p.dual-lat.cinecalidad.run.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,El cadaver de la novia
 http://192.99.233.158/disco2/disco2/Peliculas_Clasicas/Animadas_Clasicas/El%20Cadaver%20de%20la%20Novia.avi
@@ -218,6 +221,15 @@ http://51.81.208.167/2020/La_Era_de_Hielo_4_La_Formacion_de_los_Continentes__201
 
 #EXTINF:-1 group-title="Peliculas" ,La era de hielo 5
 http://51.81.208.167/2020/La_Era_de_Hielo_5_Choque_de_Mundos__2016.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Cars
+http://54.39.52.63/ZEUS/Movies/Mayo/10%20de%20mayo/Cars.2006.1080p-dual-lat%20(1).mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Cars 2
+http://54.39.52.63/ZEUS/Movies/Mayo/10%20de%20mayo/Cars.2.2011.1080p-dual-lat.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Cars 3
+http://54.39.52.63/ZEUS/Movies/Mayo/10%20de%20mayo/Cars.3.2017.1080p-dual-lat.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Hotel transilvania
 http://54.39.52.63/PELICULA/10.9./Hotel%20Transilvania%20%e2%80%93%20ARESHD.mp4
