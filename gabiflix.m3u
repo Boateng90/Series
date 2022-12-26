@@ -30,8 +30,8 @@ http://51.81.208.167/movies/Wrong_Turn_2_Dead_End_(2007).mp4
 #EXTINF:-1 group-title="Peliculas" ,Camino hacia el terror 3
 http://51.81.208.167/movies/Wrong_Turn_3_Left_For_Dead_(2009).mp4
 
-#EXTINF:-1 group-title="Peliculas" ,El quinto elemento
-https://vd197.mycdn.me/?expires=1670373120688&srcIp=187.191.38.76&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.5&type=3&sig=1myb1jEmXpY&ct=0&urls=185.226.52.4&clientType=0&id=304294398598
+#EXTINF:-1 group-title="Peliculas" ,Jurassic World
+http://54.39.52.63/ZEUS/Movies/junio/junio13/Jurassic.world.2015.hd-dual-lat.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Interestelar
 http://192.99.233.158/disco2/disco2/nuevo/CIENCIA%20FICCION/Interestelar.mkv
@@ -174,20 +174,38 @@ http://54.39.52.63/ZEUS/Movies/junio/Junio14/Principe%20de%20Egipto.mkv
 #EXTINF:-1 group-title="Peliculas" ,Coco
 http://192.99.233.158/disco2/disco2/Peliculas/Animadas/Coco.mkv
 
+#EXTINF:-1 group-title="Peliculas" ,Moana
+http://54.39.52.63/ZEUS/Movies/junio/junio8/Moana.2016.1080p-dual-lat.mp4
+
 #EXTINF:-1 group-title="Peliculas" ,Shrek
 https://ia804607.us.archive.org/33/items/shrek-2001-latino-ingles-1080p-anx-cinema_202112/Shrek%20%5B2001%5D%20Latino%20-%20Ingl%C3%A9s%20%5B1080p%5D%20%5BAnxCinema%5D.ia.mp4
 
-#EXTINF:-1 group-title="Peliculas" ,Shrek 2
-https://sto094.akamai-cdn-content.com/tysxeuau6666j6cdababvr2bg7h3olrtfk2ajhpazzonnzhgysmwlktoyywa/shrek-2_1.mp4
+#EXTINF:-1 group-title="Peliculas" ,Monsters Inc
+http://54.39.52.63/ZEUS/Movies/junio/Junio16/Monster%20Inc.mkv
 
-#EXTINF:-1 group-title="Peliculas" ,Shrek para siempre
-https://sto086.akamai-cdn-content.com/tysxfo4w7k66j6cdaccrxg23eg4kk75s4gevjvp6jpnroqrzwrwe7m2qsxca/shrek-para-siempre-el-capitulo-final_1.mp4
+#EXTINF:-1 group-title="Peliculas" ,Monsters University
+http://54.39.52.63/ZEUS/Movies/junio/Junio16/Monsters.University.2013.bluray-latino-e-ingles-subt.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Turbo
+http://54.39.52.63/ZEUS/Movies/junio/Junio16/Turbo.2013.bluray-latino-e-ingles-subt.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Rock Dog
+http://54.39.52.63/ZEUS/Movies/junio/junio8/Rock.dog.2016.1080p-dual-lat.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Los Croods
 http://54.39.52.63/ZEUS/Movies/septiembre/The.Croods.(2013).720p-dual-lat-cinecalidad.lol.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Los Croods 2 una nueva era
 http://heinentv.ddns.me/Contenido/Peliculas/Estrenos/Los%20Croods_%20Una%20nueva%20era.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Kung Fu panda
+http://54.39.52.63/ZEUS/Movies/junio/junio7/Kung%20Fu%20Panda%20(2008)-1080p.dual-lat-Cinecalidad.link.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Kung Fu panda 2
+http://54.39.52.63/ZEUS/Movies/junio/junio7/Kung.fu.panda.2.2011.1080p-dual-lat.mp4
+
+#EXTINF:-1 group-title="Peliculas" ,Kung Fu panda 3
+http://54.39.52.63/ZEUS/Movies/junio/junio7/Kung%20Fu%20Panda%203%20(2016).1080p-dual-lat-Cinecalidad.link(1).mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Ralph el demoledor
 http://192.99.233.158/disco2/disco2/Peliculas/Animadas/Ralph-Demoledor.mp4
@@ -200,6 +218,9 @@ http://192.99.233.158/disco2/disco2/Peliculas/Animadas/%5b2001%5d%20El%20Viaje%2
 
 #EXTINF:-1 group-title="Peliculas" ,Buscando a Nemo
 http://heinentv.ddns.me/Contenido/Peliculas/Infantil/%20Buscando%20A%20Nemo%20(2003)%201080p.mkv
+
+#EXTINF:-1 group-title="Peliculas" ,Buscando a Dory
+http://54.39.52.63/ZEUS/Movies/junio/junio8/Finding.dory.2016.1080p-dual-lat.mp4
 
 #EXTINF:-1 group-title="Peliculas" ,Monster House
 http://54.39.52.63/ZEUS/Movies/Noviembre/Monster%20House%20(2006)%201080p.dual-lat.cinecalidad.run.mp4
