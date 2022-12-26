@@ -168,6 +168,9 @@ http://192.99.233.158/disco2/disco2/Peliculas/Ultimos_Agregados/27septiembre2018
 #EXTINF:-1 group-title="Peliculas" ,Jose el soñador
 http://54.39.52.63/ZEUS/Movies/junio/Junio14/Jose%20El%20Rey%20De%20Los%20Sue%c3%b1os.mkv
 
+#EXTINF:-1 group-title="Peliculas" ,El principe de Egipto
+http://54.39.52.63/ZEUS/Movies/junio/Junio14/Principe%20de%20Egipto.mkv
+
 #EXTINF:-1 group-title="Peliculas" ,Coco
 http://192.99.233.158/disco2/disco2/Peliculas/Animadas/Coco.mkv
 
