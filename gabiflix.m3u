@@ -9,10 +9,10 @@ https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris2.m3u
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bnbdo6Gc_ik/maxresdefault.jpg" group-title="Caricaturas" ,Cat-Dog
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris3.m3u
 
-#EXTINF:-1 tvg-logo="https://static.miraheze.org/besttvshowswiki/c/c6/PinguS1-2.jpeg" group-title="Caricaturas" ,Pingu
+#EXTINF:-1 tvg-logo="https://flxt.tmsimg.com/assets/p464282_b_h9_ak.jpg" group-title="Caricaturas" ,Pingu
 http://51.158.153.210/PINGU---100-FULL-EPISODES-8-HOURS---HD-720P.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/verticalimage1664995558550-2834199.jpg" group-title="Series" ,Monstruo la historia de Jeffrey Dahmer
+#EXTINF:-1 tvg-logo="https://images.pagina12.com.ar/styles/focal_content_1200x1050/public/2022-09/652708-jeffrey-20dahmer-0.jpg" group-title="Series" ,Monstruo la historia de Jeffrey Dahmer
 https://raw.githubusercontent.com/Boateng90/Series/main/gabinirris4.m3u
 
 #EXTINF:-1 group-title="Peliculas" ,El exorcismo de dios
@@ -51,7 +51,7 @@ http://heinentv.ddns.me/Contenido/Peliculas/Suspenso/OVNI_%20No%20estamos%20solo
 #EXTINF:-1 group-title="Peliculas" ,La señal
 http://144.217.180.205/Zeus/MOVIES/The.signal.2014.hd-dual-lat.mp4
 
-#EXTINF:-1 group-title="Peliculas" ,El cuarto conacto
+#EXTINF:-1 group-title="Peliculas" ,El cuarto contacto
 http://144.217.180.205/Zeus/MOVIES/The%20Fourth%20Kind.mkv
 
 #EXTINF:-1 group-title="Peliculas" ,Señales
